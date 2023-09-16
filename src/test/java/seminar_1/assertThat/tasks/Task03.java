@@ -1,4 +1,4 @@
-package tasks;
+package seminar_1.assertThat.tasks;
 
 public class Task03 {
     //Нужно исправить метод сложения двух чисел так, чтобы при

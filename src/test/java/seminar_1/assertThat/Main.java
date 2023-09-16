@@ -1,3 +1,5 @@
+package seminar_1.assertThat;
+
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 // Импортируем необходимые классы из библиотек
