@@ -1,6 +1,6 @@
-package seminar_1.assertThat.tasks;
+package seminar_1.tasks;
 
-import static seminar_1.assertThat.tasks.Task03.sum;
+import static seminar_1.tasks.Task03.sum;
 import static org.assertj.core.api.Assertions.assertThat;
 
 // Найти и исправить ошибку

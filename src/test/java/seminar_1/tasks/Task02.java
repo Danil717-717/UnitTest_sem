@@ -1,4 +1,4 @@
-package seminar_1.assertThat.tasks;
+package seminar_1.tasks;
 
 public class Task02 {
     //Нужно исправить пример, так чтобы метод не выбрасывал ошибку

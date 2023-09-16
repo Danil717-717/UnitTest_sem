@@ -1,4 +1,4 @@
-package seminar_1.assertThat.tasks;
+package seminar_1.tasks;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

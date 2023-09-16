@@ -1,4 +1,4 @@
-package seminar_1.assertThat.tasks;
+package seminar_1.tasks;
 
 public class Task01 {
     //    Задание: Используйте ключевое слово assert для проверки
