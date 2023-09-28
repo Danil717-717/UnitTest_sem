@@ -9,7 +9,6 @@ public class Task05 {
         expectedValue();
     }
 
-    public static void expectedValue() {
-        assertThat(sum(2, 3)).isEqualTo(5);
+    public static void expectedValue() {assertThat(sum(2, 3)).isEqualTo(5);
     }
 }

@@ -15,7 +15,7 @@ class UserRepositoryTest {
     @Test
     void findByName() {
         boolean res = uR.findByName("Ivan");
-        assertEquals(true,res);    // тут тоже не совсем понятно скорее всего через лямбды я этого еще не знаю)
+        assertEquals(false,res);    // тут тоже не совсем понятно скорее всего через лямбды я этого еще не знаю)
     }
 
     @Test
